@@ -1,0 +1,8 @@
+.venv
+data
+__pycache__
+test_official
+train_small
+val_small
+*.csv
+*.zip
